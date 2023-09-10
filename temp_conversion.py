@@ -1,7 +1,8 @@
 
 def convert_100_to_celsius():
     celsius_100 = (100 - 32) * (5 / 9)
-    print(f'{celsius_100}','float') 
+    print(f'{celsius_100}')
+    print('float') 
 
 #I know the result will be a float because division was among the operatios in the equation
    
